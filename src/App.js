@@ -101,13 +101,14 @@ class App extends Component {
     return (
       <div className="container">
         <h1>Welcome to the shop</h1>
+        <p>link</p>
         <hr />
         <div className="row">
           <div className="col-md-9">
             <Filter
               count={this.state.filteredProducts.length}
               handleSortChange={this.handleSortChange}
-              handleSizeChange={this.handleSizeChange}
+              handleCategorieChange={this.handleCategorieChange}
             />
             <hr />
             <Products
