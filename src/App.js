@@ -92,8 +92,8 @@ class App extends Component {
     this.setState({ sort: e.target.value });
     this.listProducts();
   };
-  handleSizeChange = e => {
-    this.setState({ size: e.target.value });
+  handleCategorieChange = e => {
+    this.setState({ categorie: e.target.value });
     this.listProducts();
   };
 
@@ -101,6 +101,7 @@ class App extends Component {
     return (
       <div className="container">
         <h1>Welcome to the shop</h1>
+        <p>An have a snackalicious day :) </p>
         <hr />
         <p>Link 1</p> <p>Link 2</p><p>Link 3</p>
         
