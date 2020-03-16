@@ -101,8 +101,9 @@ class App extends Component {
     return (
       <div className="container">
         <h1>Welcome to the shop</h1>
-        <p>link</p>
         <hr />
+        <p>Link 1</p> <p>Link 2</p><p>Link 3</p>
+        
         <div className="row">
           <div className="col-md-9">
             <Filter
