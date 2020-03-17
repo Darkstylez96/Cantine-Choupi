@@ -1,0 +1,630 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "category_id": 1,
+        "products": [
+            {
+                "id": 1,
+                "name": "Salame",
+                "description": "Tomaten, kaas en salami",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/salami.png",
+                "category_id": 1,
+                "price": "5.00"
+            },
+            {
+                "id": 4,
+                "name": "Prosciutto",
+                "description": "Tomaten, kaas en ham",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/prosciutto.png",
+                "category_id": 1,
+                "price": "6.00"
+            },
+            {
+                "id": 5,
+                "name": "Funghi",
+                "description": "Tomaten, kaas en champignons",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/funghi.png",
+                "category_id": 1,
+                "price": "6.45"
+            },
+            {
+                "id": 6,
+                "name": "Quattro Stagioni",
+                "description": "Tomaten, kaas, champignons, ham, salami, ansjovis, kappertjes en olijven",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/stagioni.png",
+                "category_id": 1,
+                "price": "8.00"
+            },
+            {
+                "id": 7,
+                "name": "Mista",
+                "description": "Tomaten, kaas, champignons, ham, salami, garnalen en zalm",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/mista.png",
+                "category_id": 1,
+                "price": "10.00"
+            },
+            {
+                "id": 8,
+                "name": "Tonno",
+                "description": "Tomaten, kaas, tonijn en uien",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/tonno.png",
+                "category_id": 1,
+                "price": "8.50"
+            },
+            {
+                "id": 9,
+                "name": "Peperoni",
+                "description": "Tomaten, kaas, champignons, uien, paprika en spaanse pepers",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/peperoni.png",
+                "category_id": 1,
+                "price": "9.00"
+            },
+            {
+                "id": 10,
+                "name": "Capricciosa",
+                "description": "Tomaten, kaas, garnalen, zalm, salami, paprika en ham",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/capricciosa.png",
+                "category_id": 1,
+                "price": "8.50"
+            },
+            {
+                "id": 11,
+                "name": "Calzone",
+                "description": "Dubbel geslagen pizza gevuld met tomaten, kaas, ham en salami",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/calzone.png",
+                "category_id": 1,
+                "price": "7.50"
+            },
+            {
+                "id": 12,
+                "name": "Capricciosa Speciale",
+                "description": "Tomaten, kaas, champignons, ham, salami, garnalen, zalm, olijven, paprika en uien",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/capricciosa-speciale.png",
+                "category_id": 1,
+                "price": "10.00"
+            },
+            {
+                "id": 13,
+                "name": "Francescana",
+                "description": "Tomaten, kaas, champignons, artisjokken en uien",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/francescana.png",
+                "category_id": 1,
+                "price": "8.50"
+            },
+            {
+                "id": 14,
+                "name": "Stella Marina",
+                "description": "Tomaten, kaas, garnalen en zalm",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/marina.png",
+                "category_id": 1,
+                "price": "8.50"
+            },
+            {
+                "id": 15,
+                "name": "Adriatica",
+                "description": "Tomaten, kaas, tonijn, garnalen en ansjovis",
+                "image_url": "https://competa-api.dev.competa.com/images/pizza/adriatica.png",
+                "category_id": 1,
+                "price": "10.00"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pasta",
+        "category_id": 2,
+        "products": [
+            {
+                "id": 3,
+                "name": "Napolitana",
+                "description": "Met tomatensaus, parmezaanse kaas en peterselie",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "4.50"
+            },
+            {
+                "id": 16,
+                "name": "All'aglio",
+                "description": "Met olijfolie, knoflook, peterselie en parmezaanse kaas",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "5.50"
+            },
+            {
+                "id": 17,
+                "name": "Bolognese",
+                "description": "Met rundergehakt in tomatensaus en parmezaanse kaas",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "6.00"
+            },
+            {
+                "id": 18,
+                "name": "Carbonara",
+                "description": "Met ei, peterselie, spek, spaanse peper, room, knoflook, parmezaanse kaas en uien",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "7.00"
+            },
+            {
+                "id": 19,
+                "name": "Burinata",
+                "description": "Met champignons, ham, doperwten, room, parmezaanse kaas en uien",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "7.00"
+            },
+            {
+                "id": 20,
+                "name": "Matriciana",
+                "description": "Met tomatensaus, gerooktspek, uien en parmezaanse kaas (pikant)",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "9.00"
+            },
+            {
+                "id": 21,
+                "name": "Vegetariana",
+                "description": "Met champignons, artisjokken, paprika, uien, kappertjes in tomatensaus en parmezaanse kaas",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "9.00"
+            },
+            {
+                "id": 22,
+                "name": "Al Pesto",
+                "description": "Met groene pesto, pijnboompitjes, room, parmezaanse kaas en verse knoflook",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "10.00"
+            },
+            {
+                "id": 23,
+                "name": "Quattro Formaggi",
+                "description": "Met vier verschillende soorten kaas in roomsaus",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "8.00"
+            },
+            {
+                "id": 24,
+                "name": "Pasta al spinacina",
+                "description": "Met spinazie, mozzarella, room, parmezaanse kaas, verse peterselie en verse knoflook",
+                "image_url": "https://competa-api.dev.competa.com/images/pasta/pasta.jpg",
+                "category_id": 2,
+                "price": "10.00"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Desserts",
+        "category_id": 3,
+        "products": [
+            {
+                "id": 25,
+                "name": "Tiramisu",
+                "description": "Heerlijke Italiaans cake dessert, 3.5% alcohol",
+                "image_url": "https://competa-api.dev.competa.com/images/desserts/dessert.png",
+                "category_id": 3,
+                "price": "5.00"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dranken",
+        "category_id": 4,
+        "products": []
+    },
+    {
+        "id": 5,
+        "name": "Antipasti",
+        "category_id": 5,
+        "products": []
+    },
+    {
+        "id": 6,
+        "name": "Overig",
+        "category_id": 6,
+        "products": []
+    },
+    {
+        "id": 7,
+        "name": "Kwaliteits wijnen",
+        "category_id": 7,
+        "products": [
+            {
+                "id": 26,
+                "name": "Frascati",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 7,
+                "price": "25.00"
+            },
+            {
+                "id": 27,
+                "name": "Verdicchio",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 7,
+                "price": "25.00"
+            },
+            {
+                "id": 28,
+                "name": "Barolo",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 7,
+                "price": "25.00"
+            },
+            {
+                "id": 29,
+                "name": "Barbera",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 7,
+                "price": "25.00"
+            },
+            {
+                "id": 30,
+                "name": "Amarone",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 7,
+                "price": "25.00"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Italiaanse wijnen",
+        "category_id": 8,
+        "products": [
+            {
+                "id": 31,
+                "name": "Vino rossato (rosé)",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 8,
+                "price": "18.00"
+            },
+            {
+                "id": 32,
+                "name": "Vino rosso",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 8,
+                "price": "18.00"
+            },
+            {
+                "id": 33,
+                "name": "Vino bianco",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 8,
+                "price": "18.00"
+            },
+            {
+                "id": 34,
+                "name": "Chianti",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 8,
+                "price": "19.00"
+            },
+            {
+                "id": 35,
+                "name": "Proseco",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 8,
+                "price": "15.00"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Aperatieven/ likeuren",
+        "category_id": 9,
+        "products": [
+            {
+                "id": 36,
+                "name": "Rode port",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 9,
+                "price": "12.50"
+            },
+            {
+                "id": 37,
+                "name": "Witte port",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 9,
+                "price": "13.50"
+            },
+            {
+                "id": 38,
+                "name": "Avema",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 9,
+                "price": "15.00"
+            },
+            {
+                "id": 39,
+                "name": "Vecchia Romagna",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 9,
+                "price": "138.00"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Bieren",
+        "category_id": 10,
+        "products": [
+            {
+                "id": 40,
+                "name": "Flesje Hertog Jan",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 10,
+                "price": "2.00"
+            },
+            {
+                "id": 41,
+                "name": "Flesje Grolsch",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 10,
+                "price": "2.00"
+            },
+            {
+                "id": 42,
+                "name": "Flesje Wickse Witte",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 10,
+                "price": "2.75"
+            },
+            {
+                "id": 43,
+                "name": "Flesje Moretti",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 10,
+                "price": "3.25"
+            },
+            {
+                "id": 44,
+                "name": "Flesje Peroni",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 10,
+                "price": "3.50"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Overige dranken",
+        "category_id": 11,
+        "products": [
+            {
+                "id": 45,
+                "name": "Blikje Coca-cola",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 11,
+                "price": "1.50"
+            },
+            {
+                "id": 46,
+                "name": "Fles Coca-cola",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 11,
+                "price": "2.50"
+            },
+            {
+                "id": 47,
+                "name": "Blikje Sprite",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 11,
+                "price": "1.50"
+            },
+            {
+                "id": 48,
+                "name": "Fles Sprite",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 11,
+                "price": "2.50"
+            },
+            {
+                "id": 49,
+                "name": "Blikje Casis",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 11,
+                "price": "1.50"
+            },
+            {
+                "id": 50,
+                "name": "Fles Casis",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/drinks/drink.jpg",
+                "category_id": 11,
+                "price": "2.50"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Pane e olive (Brood en olijven)",
+        "category_id": 12,
+        "products": [
+            {
+                "id": 51,
+                "name": "Pizza Bianca",
+                "description": "Krokante pizza bianca met knoflook, basilicum en olijfolie",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 12,
+                "price": "4.50"
+            },
+            {
+                "id": 52,
+                "name": "Bruschetta",
+                "description": "In de oven geroosterde broodjes (drie stuks) bedekt met blokjes tomaat, ui, basilicum en olijfolie",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 12,
+                "price": "5.00"
+            },
+            {
+                "id": 53,
+                "name": "Brood met kruidenboter",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 12,
+                "price": "3.50"
+            },
+            {
+                "id": 54,
+                "name": "Brood met pesto",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 12,
+                "price": "3.50"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Zuppe",
+        "category_id": 13,
+        "products": [
+            {
+                "id": 55,
+                "name": "Zuppa di Pomodoro",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 13,
+                "price": "3.00"
+            },
+            {
+                "id": 56,
+                "name": "Minestrone",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 13,
+                "price": "3.00"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Fredi (Koude voorgerechten)",
+        "category_id": 5,
+        "products": [
+            {
+                "id": 57,
+                "name": "Carpaccio",
+                "description": "Klassiek bereide carpaccio van rundvlees met rucola en parmezaanse kaas",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 14,
+                "price": "7.95"
+            },
+            {
+                "id": 58,
+                "name": "Antipasto di Terra",
+                "description": "Proeverij voor 2 personen van diverse soorten Italiaanse vleeswaren, mozzarella en olijven op een bedje van rucola, brood met kruidenboter.",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 14,
+                "price": "14.00"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Caldi (Warme voorgerechten)",
+        "category_id": 15,
+        "products": [
+            {
+                "id": 59,
+                "name": "Gamberetti all' aglio",
+                "description": "Gebakken gamba's in kruidige knoflookolie",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 15,
+                "price": "8.50"
+            },
+            {
+                "id": 60,
+                "name": "Cozze Pescatore",
+                "description": "Gebakken mosselen in witte wijnsaus",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 15,
+                "price": "7.35"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Insalata",
+        "category_id": 16,
+        "products": [
+            {
+                "id": 2,
+                "name": "Caprese",
+                "description": "Tomaten met mozarella en basilicum",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 16,
+                "price": "7.95"
+            },
+            {
+                "id": 61,
+                "name": "Insalata Mista",
+                "description": "Gemengde salade",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 16,
+                "price": "5.55"
+            },
+            {
+                "id": 62,
+                "name": "Insalata Mista con Tonno",
+                "description": "Gemengde salade met tonijn",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 16,
+                "price": "8.45"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Bijgerechten",
+        "category_id": 17,
+        "products": [
+            {
+                "id": 63,
+                "name": "Gefrituurde aardappelschijfjes",
+                "description": "",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 17,
+                "price": "3.50"
+            },
+            {
+                "id": 64,
+                "name": "Verdure miste al forno",
+                "description": "Gebakken seizoensgroenten",
+                "image_url": "https://competa-api.dev.competa.com/images/antipasti/antipasti.jpeg",
+                "category_id": 17,
+                "price": "6.45"
+            }
+        ]
+    }
+]
